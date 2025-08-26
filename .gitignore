@@ -141,3 +141,13 @@ jspm_packages/
 
 # TernJS port file
 .tern-port
+
+# Metro cache
+.metro-cache/
+
+# Package lock files (use yarn.lock)
+package-lock.json
+
+# Temporary files
+*.tmp
+*.temp
